@@ -1,3 +1,6 @@
+**Corrige AI**
+
+
 Software para correção de provas e trabalhos acadêmicos. O Backend possui funcionalidades de ler diversos tipos de arquivos, como.ipynb, PDF e .SQL. Possui função recursiva bastando apontar o diretorio onde se encontram os arquivos das provas. 
 
 Será gerado um arquivo de saida para cada prova com pontos positivos, negativos, feedback e nota de acordo com o range passado no prompt.
